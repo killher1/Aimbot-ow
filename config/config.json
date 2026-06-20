@@ -1,0 +1,22 @@
+{
+    "resolution_preset": "1920x1080",
+    "USE_TRT": true,
+    "MODEL_PATH": "models/ow.engine",
+    "IMG_SIZE": 736,
+    "capture_size": "small",
+    "aim_button": "x1",
+    "trigger_mode": "hold",
+    "lerp_factor": 0.9,
+    "CONF_THRESHOLD": 0.51,
+    "enable_preview": true,
+    "y_offset_ratio": 0.17,
+    "y_offset_ratio_alt": 0.54,
+    "exit_key_combo": [
+        "f12"
+    ],
+    "ib_driver": "Logitech",
+    "ib_dll_path": "libs/IbInputSimulator.dll",
+    "smooth_factor": 4.0,
+    "lock_radius": 80,
+    "target_switch_cooldown": 5
+}

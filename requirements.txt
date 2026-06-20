@@ -1,0 +1,15 @@
+# GUI
+PyQt5>=5.15.0
+
+# Computer Vision
+opencv-python>=4.5.0
+numpy>=1.20.0
+
+# YOLO Object Detection
+ultralytics>=8.0.0
+
+# Input Monitoring
+pynput>=1.7.0
+
+# Screen Capture
+bettercam>=1.0.0
